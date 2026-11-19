@@ -19,11 +19,16 @@ Here are some ideas to get you started:
 ## 🛠️ Repository Directory & Navigation
 
 * 📂 **University** (학습 및 교육 기록)
-  * 📄 `1. Python 교육` / `2. RPI (Raspberry Pi)`
+  * `1. Python 교육 자료`
+  * `2. RPI (Raspberry Pi)`
 * 📂 **PROJECT** (주요 개발 프로젝트)
-  * 📄 `1. ALENTO` / `2. 선예` / `3. WEO` / `4. Salmon` / `5. AROV`
+  * `1. ALENTO`
+  * `2. 선예` 
+  * `3. WEO`
+  * `4. Salmon`
+  * `5. AROV`
 * 📂 **PAPER** (연구 및 논문 작성 실적)
-  * 📄 `저해상도 영상 내 극소형 객체 탐지 프레임워크`
+  * `저해상도 영상 내 극소형 객체 탐지 프레임워크`
 
 ---
 
@@ -40,11 +45,11 @@ Here are some ideas to get you started:
 
 | 프로젝트명 | 핵심 개요 | 역할 | 
 | :--- | :--- | :--- |
-| **1. ALENTO** | 방문자 대화 응대와 스토커 예방을 위한 스마트 인터콤 시스템 | `Python` `Django` |
-| **2. 선예** | 차량 도메인 내 긴급 상황을 감지하는 이벤트 시스템 | `React` `Node.js` |
-| **3. WEO** | 방한 외국인 여행객을 위한 글로벌 실시간 재난 알림 앱 | `Java` `Spring` |
-| **4. Salmon** | 스크린샷 자동 분석 및 지도·일정 연동 모바일 앱 | `C++` `Embedded` |
-| **5. AROV** | 비행경로 생성 자율비행 무대 촬영 드론 시스템 | `ROS` `Python` |
+| **1. ALENTO** | 방문자 대화 응대와 스토커 예방을 위한 스마트 인터콤 시스템 | `Raspberry Pi` `TTS` `STT` |
+| **2. 선예** | 차량 도메인 내 긴급 상황을 감지하는 이벤트 시스템 | `LSTM` |
+| **3. WEO** | 방한 외국인 여행객을 위한 글로벌 실시간 재난 알림 앱 | `--` |
+| **4. Salmon** | 스크린샷 자동 분석 및 지도·일정 연동 모바일 앱 | `Android` `JAVA` |
+| **5. AROV** | 비행경로 생성 자율비행 무대 촬영 드론 시스템 | `ROS2` |
 
 ---
 
