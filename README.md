@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 
 ## 🛠️ Repository Directory & Navigation
-> 아래 폴더 구조를 클릭하시면 해당 프로젝트나 학습 기록 위치로 빠르게 이동(또는 가이드)할 수 있도록 구조화했습니다.
 
 * 📂 **University** (학습 및 교육 기록)
   * 📄 `1. Python 교육` / `2. RPI (Raspberry Pi)`
